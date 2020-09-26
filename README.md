@@ -2,7 +2,7 @@
 CNNで画像にスタイルを載せるアレ
 
 ### 参考文献
-参考文献を追記したのが実装してからかなり後なので、ちょっと正しいか自身ないけど多分この論文の再実装です。  
+参考文献を追記したのが実装してからかなり後なので、ちょっと正しいか自信ないけど多分この論文の再実装です。  
 https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 #### サンプル
